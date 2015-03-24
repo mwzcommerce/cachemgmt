@@ -6,11 +6,11 @@ We thought it is good to have GUI based console and it can be even be shared wit
 <b> Technology Stack </b>
 <p>
       We intend to create this management GUI so quickly to reap the benefits.Hence we chose the below technolgy stack which helps us to perform rapid development 
-    <li>
-      <ol>Groovy Grails </ol>
-      <ol>Bootstrap - CSS framework </ol>
-      <ol>Gradle based build </ol>
-      <ol>JQuery as CSS selector and UI plugins for any UI related customization</ol>
-    </li>
+    <ol>
+      <li>Groovy Grails </li>
+      <li>Bootstrap - CSS framework </li>
+      <li>Gradle based build </li>
+      <li>JQuery as CSS selector and UI plugins for any UI related customization</li>
+    </ol>
 
 </p>
