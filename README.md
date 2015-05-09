@@ -3,7 +3,8 @@ This application will be a cache management console and can be connected across 
 
 We thought it is good to have GUI based console and it can be even be shared with business users as most of them they will not be aware/access the cache store where data are temporarily managed 
 
-<b> Technology Stack </b>
+Technology Stack
+----------------
 <p>
       We intend to create this management GUI so quickly to reap the benefits.Hence we chose the below technolgy stack which helps us to perform rapid development 
     <ol>
